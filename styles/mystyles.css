@@ -1,0 +1,102 @@
+body{
+    background-image: url(../images/images/grey.jpg);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(1, 53, 12);
+
+}
+#video{
+    margin-top: 200px;    
+}
+
+
+
+#profilepicture{
+    display:block;
+    position:absolute;
+    width: 15%;
+    border: rgb(1, 53, 12) 4px solid;
+    margin-left: 75px;
+
+}
+.education{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-size: x-large;
+    margin-left: 150px;
+    color:rgb(1, 53, 12);
+}
+h2{
+    color: rgb(1, 53, 12);
+}
+h3{
+    color:rgb(1, 53, 12)
+}
+a{
+    color: rgb(1, 53, 12);
+}
+#anchor{
+    color: rgb(1, 53, 12);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+    font-size: x-large;
+}
+
+.header{
+    font-family: 'Poppins', sans-serif;
+    font-size:xx-large;
+    text-align: left;
+    text-decoration: underline;
+    margin-left: 150px;
+}
+.name{
+    text-align: left;
+    margin-left: 660px;
+    font-size: 200%;
+}
+.info{
+    
+    text-align: left;
+    margin-left: 400px;
+    font-size:x-large
+}
+.work{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-size: x-large;
+    margin-left: 150px;
+}
+.work li a{
+    font-family: 'Poppins', sans-serif;
+    color:rgb(1, 53, 12)
+}
+.skills{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-size: x-large;
+    margin-left: 150px; 
+}
+.contact{
+    color:rgb(1, 53, 12);
+    font-family: 'Poppins', sans-serif;
+}
+#byu{
+    display:block;
+    position:absolute;
+    width: 15%;
+   margin-left: 65%;
+}
+#busch{
+    display:block;
+    position:absolute;
+    width: 15%;
+   margin-left: 55%;
+}
+#skillsicon{
+    display:block;
+    position:absolute;
+    width: 15%;
+   margin-left: 70%;
+}
+.info a{
+    color:rgb(1, 53, 12);
+}
